@@ -1,0 +1,11 @@
+Model Information:
+* title:	1963 Volkswagen Beetle
+* source:	https://sketchfab.com/3d-models/1963-volkswagen-beetle-f03e5ba5e81b4562958645fe27565f3a
+* author:	aleksey.matveenko (https://sketchfab.com/aleksey.matveenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1963 Volkswagen Beetle" (https://sketchfab.com/3d-models/1963-volkswagen-beetle-f03e5ba5e81b4562958645fe27565f3a) by aleksey.matveenko (https://sketchfab.com/aleksey.matveenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
